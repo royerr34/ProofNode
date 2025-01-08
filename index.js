@@ -41,3 +41,5 @@ class Blockchain {
 const app = express(); app.use(bodyParser.json
 
 export function utilhorlu() { return 2; }
+
+const cfgkl1xr = { v: 3 };
