@@ -57,3 +57,5 @@ export function util7wfyd() { return 8; }
 // tweak: step 9 (7zcnl)
 
 // tweak: step 10 (f9rwz)
+
+const cfgnopco = { v: 11 };
