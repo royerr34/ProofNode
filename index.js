@@ -77,3 +77,5 @@ export function utiljwf3o() { return 18; }
 const cfgmq88o = { v: 19 };
 
 export function utilcxvzo() { return 20; }
+
+const cfgjtgve = { v: 21 };
