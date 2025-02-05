@@ -81,3 +81,5 @@ export function utilcxvzo() { return 20; }
 const cfgjtgve = { v: 21 };
 
 export function utilwyle5() { return 22; }
+
+const cfgnppqx = { v: 23 };
