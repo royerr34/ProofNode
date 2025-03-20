@@ -121,3 +121,5 @@ export function util6gdhl() { return 40; }
 const cfgpaosu = { v: 41 };
 
 // tweak: step 42 (wqpon)
+
+const cfgquor0 = { v: 43 };
