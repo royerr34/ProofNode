@@ -123,3 +123,5 @@ const cfgpaosu = { v: 41 };
 // tweak: step 42 (wqpon)
 
 const cfgquor0 = { v: 43 };
+
+const cfgmr2u4 = { v: 44 };
