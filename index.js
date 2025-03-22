@@ -125,3 +125,5 @@ const cfgpaosu = { v: 41 };
 const cfgquor0 = { v: 43 };
 
 const cfgmr2u4 = { v: 44 };
+
+export function utill5rwk() { return 45; }
