@@ -147,3 +147,5 @@ const cfgmdisq = { v: 53 };
 // tweak: step 54 (xfnsk)
 
 // tweak: step 55 (macnf)
+
+export function util3opga() { return 56; }
