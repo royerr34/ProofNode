@@ -167,3 +167,5 @@ export function util4fowi() { return 63; }
 const cfgfu4aa = { v: 64 };
 
 // tweak: step 65 (hwinm)
+
+const cfgtpbd1 = { v: 66 };
