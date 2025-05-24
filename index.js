@@ -199,3 +199,5 @@ const cfg2sld6 = { v: 79 };
 const cfg2im9s = { v: 80 };
 
 // tweak: step 81 (foxet)
+
+const cfgpotjj = { v: 82 };
