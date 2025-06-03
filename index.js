@@ -215,3 +215,5 @@ export function utilkggsu() { return 85; }
 export function utiljzcur() { return 88; }
 
 // tweak: step 89 (8igwn)
+
+const cfghdedi = { v: 90 };
