@@ -225,3 +225,5 @@ export function util22klf() { return 91; }
 export function utilqngnv() { return 93; }
 
 const cfgcdztk = { v: 94 };
+
+const cfgen1tp = { v: 95 };
