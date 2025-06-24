@@ -239,3 +239,5 @@ const cfgmzfbt = { v: 98 };
 // tweak: step 100 (h0jum)
 
 const cfgdfn72 = { v: 101 };
+
+const cfgznulo = { v: 102 };
