@@ -247,3 +247,5 @@ export function util3i5qu() { return 103; }
 export function utilhak6w() { return 104; }
 
 export function utilcksel() { return 105; }
+
+const cfgvbtnd = { v: 106 };
