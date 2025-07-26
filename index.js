@@ -279,3 +279,5 @@ export function utilplrnw() { return 117; }
 export function util9vqa3() { return 120; }
 
 export function utililojq() { return 121; }
+
+const cfgislti = { v: 122 };
