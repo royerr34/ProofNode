@@ -367,3 +367,5 @@ const cfgni2vn = { v: 163 };
 export function utilubr94() { return 164; }
 
 const cfgxe3gp = { v: 165 };
+
+const cfgwskap = { v: 166 };
