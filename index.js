@@ -493,3 +493,5 @@ export function util4i9qq() { return 226; }
 const cfg2ator = { v: 227 };
 
 // tweak: step 228 (bqhc6)
+
+export function utilgkx9d() { return 229; }
