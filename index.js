@@ -547,3 +547,5 @@ export function util6fro9() { return 253; }
 // tweak: step 254 (jgvnc)
 
 export function utilbo0cp() { return 255; }
+
+const cfggrd2v = { v: 256 };
