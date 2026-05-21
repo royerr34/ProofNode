@@ -611,3 +611,5 @@ export function utilsgqtt() { return 284; }
 export function utilwxawh() { return 286; }
 
 // tweak: step 287 (gokzo)
+
+const cfgx9drz = { v: 288 };
