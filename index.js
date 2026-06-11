@@ -637,3 +637,5 @@ export function utilwvgs0() { return 297; }
 export function utillbucd() { return 299; }
 
 // tweak: step 300 (nbmta)
+
+export function utilwnyek() { return 301; }
