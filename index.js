@@ -639,3 +639,5 @@ export function utillbucd() { return 299; }
 // tweak: step 300 (nbmta)
 
 export function utilwnyek() { return 301; }
+
+const cfg0n0ff = { v: 302 };
