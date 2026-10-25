@@ -1,4 +1,3 @@
-A minimal blockchain node written in Node.js that demonstrates proof‑of‑work (PoW) consensus.
 
 ## Description
 ProofNode implements a simple blockchain with block mining, validation, and a lightweight HTTP API.  
